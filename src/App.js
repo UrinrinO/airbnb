@@ -1,9 +1,24 @@
 import './App.css';
+import Header from './Header';
+import Home from './Home';
 
 function App() {
   return (
     <div className="App">
-      <h1>Airbnb clone</h1>
+
+      <Header />
+      <Home />
+
+      {/* Header */}
+
+      {/* Banner */}
+
+      {/* Cards */}
+
+      {/* Footer */}
+
+      {/* Search Page */}
+      {/* ... */}
     </div>
   );
 }
